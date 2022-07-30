@@ -1,0 +1,10 @@
+#Ignored to minimize build context
+#installed packages
+node_modules
+# build bolders
+dist
+build
+#logs folder
+logs
+#git files
+.git
